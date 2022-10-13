@@ -19,6 +19,8 @@ cfg/
 darknet
 .fuse*
 yolov3.weights
+libdarknet.a
+libdarknet.so
 
 # OS Generated #
 .DS_Store*
