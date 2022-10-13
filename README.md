@@ -1,9 +1,14 @@
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
+# Personal Notes
+* Uses CUDA
+* Uses [OpenCV 3.4.18-dev](https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html) (referenced as opencv4 for some reason)
+
 # Darknet #
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 **Discord** invite link for for communication and questions: https://discord.gg/zSq8rtW
+
 
 ## YOLOv7: 
 
